@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JJ0o0&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JJ0o0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ0o0&hide_border=true&area=false&theme=github-dark&hide_title=true" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JJ0o0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JJ0o0&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ0o0&hide_border=true&area=false&theme=github-dark&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JJ0o0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JJ0o0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
