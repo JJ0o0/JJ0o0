@@ -46,8 +46,6 @@ A Really Cool project about a Playerless Game implemented in C++ with SDL3.
 
 <p align="center"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" /></p>
 
-<p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JJ0o0&theme=dark)</p>
-
----
-
-*Made with ❤️ using [GitHub Profile Studio](https://github.com/github-profile-studio)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JJ0o0&theme=dark" alt="GitHub Streak">
+</p>
